@@ -1,7 +1,5 @@
 //10 days of code
 #include<iostream>
-#include<string.h>
-#include<math.h>
 using namespace std;
 int main (){
 int n;
